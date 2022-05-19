@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="NetworkService14j:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/NetworkService14j_jar</output-path>
+    <root id="archive" name="ProjectYear2.jar">
+      <element id="module-output" name="CLIENT" />
+      <element id="module-output" name="SERVER" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Libraries/OracleDB/ojdbc11.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,15 @@
+package SERVER.RESOURCES;
+
+public enum PacketType {
+
+    MESSAGE,
+    PRIVATE_MESSAGE,
+    LOGIN,
+    REGISTRATION,
+    ROOM_CREATE,
+    ROOM_CONNECT,
+    ROOM_DELETE,
+    ROOM_UPDATE,
+    EXIT;
+
+}
